@@ -1,1 +1,3 @@
-# Download the .htaccess file and put this in your project root directory
+# Guide
+
+Download the .htaccess file and put this in your project root directory
